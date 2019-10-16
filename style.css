@@ -1,0 +1,122 @@
+
+nav{
+    background-color: white;
+    height: 64px;
+    }
+    
+    
+    
+    body {
+        background-image: url('herringbone.png');
+        color: #777777;
+    }
+    
+    
+    .title{
+    
+        color:#4aaaa5;
+    }
+    
+    .padding{
+        background-color: white;
+        padding: 18px;
+    }
+    
+    .input{
+    
+        width: 921px;
+    }
+    
+    .image{
+        float: left;
+    }
+    
+    
+
+    
+    .container{
+        width: 100%;
+        max-width: 960px;
+        margin: 0 auto; 
+        justify-content: center;
+        clear: both;
+        background-color:white;
+    
+    }
+    .wrapper {
+        width: 100%;
+        max-width: 960px;
+        margin: 0 auto; 
+        justify-content: center;
+        clear: both;
+        background-color: #eee;
+    
+    }
+    .name {
+        background-color:#4aaaa5;
+        font-size: 20px;
+        width: 300px;
+        float: left; 
+        line-height: 40px;;
+        font-size: 30px;
+        text-align: center;
+        color:white;
+    
+    }
+    
+    
+    
+      ul {
+        float: right; 
+        list-style-type: none;
+        margin-top: 25px;
+        padding: 0;
+        overflow: hidden;
+        
+      }
+      
+      li {
+        display: inline-block;
+      }
+      
+      li a {
+        color: #777777;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+    
+      footer {
+        width: 100%;
+        clear: both;
+        position:fixed;
+        left: 0;
+        bottom: 0;
+        padding: 30px 0;
+        border-top: 8px solid #4aaaa5;
+        background-color: #666666; 
+       height: 7px;
+    
+      }
+
+      img{
+
+        width: 100px;
+      }
+    
+      .first{
+        float:left;
+        padding: 50px;
+        background-color: blue;
+        height: 100px;
+        width:100px;
+    
+      }
+    
+      .second{
+        float:left;
+        background-color: red;
+        padding: 50px;
+        height:100px;
+        width: 100px;
+      }
